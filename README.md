@@ -5,7 +5,8 @@ it can run on any system running Python 3 or above and having tkinter library.
 
 Snap of the program running in windows environment:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/107360657/173610888-f3c1e2a9-f4d9-4b8d-a881-f3d0b137afad.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/107360657/173613126-640c7771-1ba1-4593-82be-202fcd501fcd.gif)
+
 
 # Features
 - Light weight
