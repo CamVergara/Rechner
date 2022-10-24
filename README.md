@@ -1,4 +1,6 @@
-# The-calculator
+# Rechner
+
+The calculator
 Py-Calculator is a calculator application with all the basic functionalities of a calculator
 written completely in Python3 using the tkinter framework.
  
